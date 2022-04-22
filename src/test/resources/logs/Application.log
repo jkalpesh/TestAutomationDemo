@@ -1,0 +1,16 @@
+2022-04-22 16:59:26 DEBUG devpinoyLogger:59 - Config file loaded.
+2022-04-22 16:59:26 DEBUG devpinoyLogger:72 - OR file loaded.
+2022-04-22 16:59:28 DEBUG devpinoyLogger:86 - chrome lunched.
+2022-04-22 16:59:34 DEBUG devpinoyLogger:90 - navigate to: http://automationpractice.com
+2022-04-22 16:59:35 DEBUG devpinoyLogger:137 - Typing in: searchQueryTxt_CSS enter value as Printed Summer Dress
+2022-04-22 16:59:38 DEBUG devpinoyLogger:126 - Clicking on: searchBtn_CSS
+2022-04-22 16:59:41 DEBUG devpinoyLogger:126 - Clicking on: firstItemFromList_CSS
+2022-04-22 16:59:41 DEBUG devpinoyLogger:126 - Clicking on: blueColor_CSS
+2022-04-22 16:59:41 DEBUG devpinoyLogger:152 - Selecting from dropdown: sizeSelector_CSS value as M
+2022-04-22 16:59:41 DEBUG devpinoyLogger:126 - Clicking on: qtyBtnPlus_CSS
+2022-04-22 16:59:41 DEBUG devpinoyLogger:126 - Clicking on: addToCartBtn_CSS
+2022-04-22 16:59:46 DEBUG devpinoyLogger:126 - Clicking on: proceedToCheckoutBtn_CSS
+2022-04-22 16:59:46 DEBUG devpinoyLogger:166 - Getting text from element: totalProduct_CSS text is $57.96
+2022-04-22 16:59:47 DEBUG devpinoyLogger:126 - Clicking on: qtyBtnPlus51900_XPATH
+2022-04-22 16:59:50 DEBUG devpinoyLogger:166 - Getting text from element: totalProduct_CSS text is $86.94
+2022-04-22 16:59:50 DEBUG devpinoyLogger:103 - Test execution completed.
